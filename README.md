@@ -10,5 +10,5 @@ http://www.papernoise.net/portfolio/mutable-instruments-redesign/
 
 Use this .eps file to get your own custom Anushri case cut from any laser cutting service.
 
-You can see what the case looks like cut into some fluro-orange acrylic here:
-http://imgur.com/NvOOtm3
+Here's what it looks like cut into some fluro-orange acrylic:
+![](https://i.imgur.com/NvOOtm3.jpeg)
